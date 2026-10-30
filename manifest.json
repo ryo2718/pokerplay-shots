@@ -1,6 +1,72 @@
 [
  {
   "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
+  "label": "トップ (未挑戦・途中・全問正解が まざった 状態)",
+  "path": "img/_extra/gloss_01_top.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
+  "label": "Q1 見て当てる (トップペア)",
+  "path": "img/_extra/gloss_10_Q1_top-pair.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
+  "label": "Q2 どっち (セット)",
+  "path": "img/_extra/gloss_11_Q2_set.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
+  "label": "Q3 場面 (Cベット)",
+  "path": "img/_extra/gloss_12_Q3_cbet.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
+  "label": "Q4 意味 (インプライドオッズ)",
+  "path": "img/_extra/gloss_13_Q4_implied.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
+  "label": "Q5 数字 (SPR)",
+  "path": "img/_extra/gloss_14_Q5_spr.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
+  "label": "Q6 人物 (タイト)",
+  "path": "img/_extra/gloss_15_Q6_tight.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
+  "label": "解説シート (一番 長い 語: ブラフキャッチャー)",
+  "path": "img/_extra/gloss_20_explain_bluff-catcher.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
+  "label": "解説シート (Cベット)",
+  "path": "img/_extra/gloss_20_explain_cbet.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
+  "label": "結果 (間違えた 単語 8 つ)",
+  "path": "img/_extra/gloss_30_result_8wrong.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
+  "label": "単語リスト 「間違えた」 タブ",
+  "path": "img/_extra/gloss_40_list_ng.webp"
+ },
+ {
+  "section": "今回の直し",
   "chapter": "やりがちなミス 5/34 行動順 (前 → 後)",
   "label": "前",
   "path": "img/_extra/m05_b.webp"
