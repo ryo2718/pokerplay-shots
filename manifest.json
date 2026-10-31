@@ -1,200 +1,314 @@
 [
  {
   "section": "今回の直し",
-  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
-  "label": "トップ (未挑戦・途中・全問正解が まざった 状態)",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "トップ",
   "path": "img/_extra/gloss_01_top.webp"
  },
  {
   "section": "今回の直し",
-  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
-  "label": "Q1 見て当てる (トップペア)",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "トップ: 一番下まで (LV6 が シートの 上に)",
+  "path": "img/_extra/gloss_02_top_end.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "レベル詳細の シート",
+  "path": "img/_extra/gloss_03_top_sheet.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "Q1 見て当てる: トップペア",
   "path": "img/_extra/gloss_10_Q1_top-pair.webp"
  },
  {
   "section": "今回の直し",
-  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
-  "label": "Q2 どっち (セット)",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "Q1 正解の 演出",
+  "path": "img/_extra/gloss_10b_Q1_right.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "Q2 どっち: セット",
   "path": "img/_extra/gloss_11_Q2_set.webp"
  },
  {
   "section": "今回の直し",
-  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
-  "label": "Q3 場面 (Cベット)",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "Q2 答えた あと",
+  "path": "img/_extra/gloss_11b_Q2_set_after.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "Q3 場面: Cベット (時間の 帯・ポット)",
   "path": "img/_extra/gloss_12_Q3_cbet.webp"
  },
  {
   "section": "今回の直し",
-  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
-  "label": "Q4 意味 (インプライドオッズ)",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "Q4 意味: インプライドオッズ (チップの 図)",
   "path": "img/_extra/gloss_13_Q4_implied.webp"
  },
  {
   "section": "今回の直し",
-  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
-  "label": "Q5 数字 (SPR)",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "Q5 数字: SPR",
   "path": "img/_extra/gloss_14_Q5_spr.webp"
  },
  {
   "section": "今回の直し",
-  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
-  "label": "Q6 人物 (タイト)",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "Q6 人物: タイト (15% / 4%)",
   "path": "img/_extra/gloss_15_Q6_tight.webp"
  },
  {
   "section": "今回の直し",
-  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
-  "label": "解説シート (一番 長い 語: ブラフキャッチャー)",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "F8 大会の 流れ: MTT",
+  "path": "img/_extra/gloss_16_F8_mtt.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "F8: バブル",
+  "path": "img/_extra/gloss_16b_F8_bubble.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "F9 表情: ティルト",
+  "path": "img/_extra/gloss_17_F9_tilt.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "F10 考え方: ソルバー",
+  "path": "img/_extra/gloss_18_F10_solver.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "F11 タイプ地図: ニット",
+  "path": "img/_extra/gloss_19_F11_nit.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "解説シート: ブラフキャッチャー (手札+場 と 相手の レンジ)",
   "path": "img/_extra/gloss_20_explain_bluff-catcher.webp"
  },
  {
   "section": "今回の直し",
-  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
-  "label": "解説シート (Cベット)",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "解説シート: Cベット",
   "path": "img/_extra/gloss_20_explain_cbet.webp"
  },
  {
   "section": "今回の直し",
-  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
-  "label": "結果 (間違えた 単語 8 つ)",
-  "path": "img/_extra/gloss_30_result_8wrong.webp"
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "「にている」 を 開いた 状態",
+  "path": "img/_extra/gloss_21_similar.webp"
  },
  {
   "section": "今回の直し",
-  "chapter": "アシちゃんの単語解説 (spec 8 の 確認、 360 × 667)",
-  "label": "単語リスト 「間違えた」 タブ",
-  "path": "img/_extra/gloss_40_list_ng.webp"
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "単語の 解説カード (?term=cbet)",
+  "path": "img/_extra/gloss_22_card_from_list.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
-  "label": "はじめ",
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "結果 (あと N ↓・進捗バー)",
+  "path": "img/_extra/gloss_30_result.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "間違えた 0 の 結果",
+  "path": "img/_extra/gloss_31_result_zero.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "単語リスト (すべて)",
+  "path": "img/_extra/gloss_40_list.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "単語リスト: 間違えた",
+  "path": "img/_extra/gloss_41_list_ng.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "単語リスト: 覚えた",
+  "path": "img/_extra/gloss_42_list_ok.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "アシちゃんの単語解説 (10/31 直したあと、 360×760)",
+  "label": "単語リスト: まだ",
+  "path": "img/_extra/gloss_43_list_new.webp"
+ },
+ {
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
+  "label": "0 問目",
   "path": "img/exam/kokugo1/00.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "1 問目",
   "path": "img/exam/kokugo1/01.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "1 問目・答えたあと",
   "path": "img/exam/kokugo1/01b.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "2 問目",
   "path": "img/exam/kokugo1/02.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "2 問目・答えたあと",
   "path": "img/exam/kokugo1/02b.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "3 問目",
   "path": "img/exam/kokugo1/03.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "3 問目・答えたあと",
   "path": "img/exam/kokugo1/03b.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "4 問目",
   "path": "img/exam/kokugo1/04.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "4 問目・答えたあと",
   "path": "img/exam/kokugo1/04b.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "5 問目",
   "path": "img/exam/kokugo1/05.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "5 問目・答えたあと",
   "path": "img/exam/kokugo1/05b.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "6 問目",
   "path": "img/exam/kokugo1/06.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "6 問目・答えたあと",
   "path": "img/exam/kokugo1/06b.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "7 問目",
   "path": "img/exam/kokugo1/07.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "7 問目・答えたあと",
   "path": "img/exam/kokugo1/07b.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "8 問目",
   "path": "img/exam/kokugo1/08.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "8 問目・答えたあと",
   "path": "img/exam/kokugo1/08b.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "9 問目",
   "path": "img/exam/kokugo1/09.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "9 問目・答えたあと",
   "path": "img/exam/kokugo1/09b.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "10 問目",
   "path": "img/exam/kokugo1/10.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "10 問目・答えたあと",
   "path": "img/exam/kokugo1/10b.webp"
  },
  {
-  "section": "テスト",
-  "chapter": "ポーカー用語解説",
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "結果",
   "path": "img/exam/kokugo1/99.webp"
+ },
+ {
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
+  "label": "間違えた ときの 答えたあと",
+  "path": "img/exam/kokugo1/fail_q1_after.webp"
+ },
+ {
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
+  "label": "不合格の 結果 (間違えた 語の 一覧 + 復習の リンク)",
+  "path": "img/exam/kokugo1/fail_result.webp"
+ },
+ {
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
+  "label": "「単語解説で復習する」 の 先",
+  "path": "img/exam/kokugo1/fail_review.webp"
+ },
+ {
+  "section": "試験",
+  "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
+  "label": "開始の 画面 (360×667)",
+  "path": "img/exam/kokugo1/start_667.webp"
  }
 ]
