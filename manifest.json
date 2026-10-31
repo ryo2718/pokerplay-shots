@@ -284,7 +284,7 @@
  {
   "section": "試験",
   "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
-  "label": "結果",
+  "label": "結果 (合格、 新しい 合格証)",
   "path": "img/exam/kokugo1/99.webp"
  },
  {
@@ -310,5 +310,41 @@
   "chapter": "国語テスト 「ポーカー用語テスト」 (10/31 直したあと、 360×760)",
   "label": "開始の 画面 (360×667)",
   "path": "img/exam/kokugo1/start_667.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "素材が 届いた あと (10/31)",
+  "label": "Q4 NLH (新しい アイコン)",
+  "path": "img/_extra/gloss_50_asset_nlh.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "素材が 届いた あと (10/31)",
+  "label": "Q4 インディファレント (新しい アイコン)",
+  "path": "img/_extra/gloss_50_asset_indifferent.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "素材が 届いた あと (10/31)",
+  "label": "Q4 エクスプロイタビリティ (新しい アイコン)",
+  "path": "img/_extra/gloss_50_asset_exploitability.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "素材が 届いた あと (10/31)",
+  "label": "Q4 キャッシュゲーム (新しい アイコン)",
+  "path": "img/_extra/gloss_50_asset_cash-game.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "素材が 届いた あと (10/31)",
+  "label": "Q4 WTSD (新しい アイコン)",
+  "path": "img/_extra/gloss_50_asset_wtsd.webp"
+ },
+ {
+  "section": "今回の直し",
+  "chapter": "素材が 届いた あと (10/31)",
+  "label": "Q6 ルース (新しい アバター)",
+  "path": "img/_extra/gloss_50_asset_loose.webp"
  }
 ]
